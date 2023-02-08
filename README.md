@@ -16,6 +16,10 @@ Fullstack clone of Facebook. Users can leave post and comment on other users' po
 
 React · Redux · JavaScript · Express.js · Node.js · Python · Flask · SQL · HTML · CSS
 
+## Contact me!
+
+[Linked In](https://www.linkedin.com/in/mikael-kuniko-0705bb261/)
+
 <!--
 **mikaelkuniko/mikaelkuniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
