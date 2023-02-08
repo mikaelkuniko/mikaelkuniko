@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋 My names Mikael!
+
+Healthcare worker turned Fullstack software engineer! - Graduated App Academy Feb 2023 
+
+## Featured Projects
+
+[Shout!](https://github.com/mikaelkuniko/shout_yelp_clone)
+
+Fullstack clone of Yelp! Users can set their own businesses and leave reviews.
+
+[BeFriends](https://github.com/mikaelkuniko/BeFriends_facebook_fullstack_clone)
+
+Fullstack clone of Facebook. Users can leave post and comment on other users' posts.
+
+## Tech Stack
+
+React · Redux · JavaScript · Express.js · Node.js · Python · Flask · SQL · HTML · CSS
 
 <!--
 **mikaelkuniko/mikaelkuniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
